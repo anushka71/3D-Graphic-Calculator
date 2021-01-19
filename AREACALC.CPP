@@ -1,5 +1,3 @@
-//[19/05/17]
-// Summer Holiday Homework 2017-2018
 // A program to calculate the area/volume/surface area/perimeter of a figure inputed by the user.
 
 // Header files
